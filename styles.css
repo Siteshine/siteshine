@@ -1,0 +1,97 @@
+body{
+background-color: #ecf4f3;
+margin: 0px;
+}
+h1{
+  color:#1fab89;
+  font-size: 200%;
+}
+hr{
+  border-style: dotted;
+  border-width: 6px;
+  border-color: #57a99a;
+  width: 5%;
+  border-bottom: none;
+}
+p{
+  color: #5d5d5d;
+  font-family: 'Merriweather Sans', sans-serif;
+  width: 30%;
+  margin: 0 auto;
+  padding: 20px;
+  line-height: 2;
+}
+
+  .top{
+background-color: #d2fafb;
+position: relative;
+text-align: center;
+}
+
+.name{
+  margin: 0;
+  padding: 150px 0 0 0;
+  color:#207561;
+font:"Sacreditty" ;
+font-family:"Sacreditty",inherit;
+  font-size: 200%;
+
+}
+
+.p{
+  color:#1fab89;
+  font-size:100%;
+  margin: 0 auto 0;
+}
+
+.photoshop{
+  position: absolute;
+  width: 10%;
+  right: 300px;
+  top:50px;
+}
+
+.sg{
+  position: absolute;
+  width: 15%;
+  bottom: 350px;
+  left: 200px;
+  display: inline-block;
+
+}
+.computer{
+margin-bottom: 0 auto 0;
+width: 40%
+}
+
+.middle{
+  text-align: center;
+}
+
+.face{
+  margin: 50px auto 30px;
+  width:25%;
+}
+.par{
+  color: #5d5d5d;
+  font-family: 'Merriweather Sans', sans-serif;
+  width: 30%;
+  margin: 0 auto;
+  padding: 20px;
+  line-height: 2;
+}
+
+.design {
+  margin: 50px auto;
+  width:15%;
+}
+
+.devolop {
+  margin: 50px auto;
+  width:15%;
+}
+
+.sports {
+  margin: 50px auto;
+  width:15%;
+}
